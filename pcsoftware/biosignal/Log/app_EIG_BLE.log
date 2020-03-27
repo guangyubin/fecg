@@ -1,0 +1,72 @@
+[Info] [2020-01-15 11:20:25:624 ]  [: Line: 0]  [Function: ] 
+Message: startMeasure 
+[Info] [2020-01-15 11:22:55:952 ]  [: Line: 0]  [Function: ] 
+Message: startMeasure 
+[Info] [2020-01-16 19:02:32:571 ]  [: Line: 0]  [Function: ] 
+Message: startMeasure 
+[Info] [2020-01-16 19:03:23:355 ]  [: Line: 0]  [Function: ] 
+Message: startMeasure 
+
+[Info] [2020-01-16 19:03:23:355 ]  [: Line: 0]  [Function: ] 
+Message: recordname =  "1_20200116190321" 
+
+[Info] [2020-01-16 19:03:23:355 ]  [: Line: 0]  [Function: ] 
+Message: username =  "test001" userID =  1 
+
+[Info] [2020-01-16 19:03:23:359 ]  [: Line: 0]  [Function: ] 
+Message: Name :  "COM13"
+[Info] [2020-01-16 19:03:23:359 ]  [: Line: 0]  [Function: ] 
+Message: Description :  "nRF Connect USB CDC ACM"
+[Info] [2020-01-16 19:03:23:360 ]  [: Line: 0]  [Function: ] 
+Message: Manufacturer:  "Nordic Semiconductor ASA"
+[Info] [2020-01-16 19:03:23:360 ]  [: Line: 0]  [Function: ] 
+Message: Serial Number:  "FBB1C3E752BE"
+[Info] [2020-01-16 19:03:23:360 ]  [: Line: 0]  [Function: ] 
+Message: System Location:  "\\\\.\\COM13"
+[Info] [2020-01-16 19:03:23:360 ]  [: Line: 0]  [Function: ] 
+Message: Find   "COM13"
+[Info] [2020-01-16 19:03:23:360 ]  [: Line: 0]  [Function: ] 
+Message: Name :  COM13 "Nordic" 
+
+[Info] [2020-01-16 19:03:28:843 ]  [: Line: 0]  [Function: ] 
+Message: BLE Find Device 
+
+[Info] [2020-01-16 19:03:28:846 ]  [: Line: 0]  [Function: ] 
+Message: Device open succeed 
+
+[Info] [2020-01-16 19:03:28:846 ]  [: Line: 0]  [Function: ] 
+Message: "Data001//ble_EIG//" 
+
+[Info] [2020-01-16 19:03:28:846 ]  [: Line: 0]  [Function: ] 
+Message: "Data001//ble_EIG//1_20200116190321" 
+
+[Info] [2020-01-16 19:03:28:877 ]  [: Line: 0]  [Function: ] 
+Message: MissPacket 0    1310 
+
+[Warning] [2020-01-16 19:03:38:936 ]  [: Line: 0]  [Function: ] 
+Message: Ignored NaN, Inf, or -Inf value.
+[Warning] [2020-01-16 19:03:38:941 ]  [: Line: 0]  [Function: ] 
+Message: Ignored NaN, Inf, or -Inf value.
+[Warning] [2020-01-16 19:03:38:946 ]  [: Line: 0]  [Function: ] 
+Message: Ignored NaN, Inf, or -Inf value.
+[Info] [2020-01-16 19:03:38:951 ]  [: Line: 0]  [Function: ] 
+Message: HR= 0   SV= nan   CO= nan   CI=  nan 
+
+[Warning] [2020-01-16 19:03:48:844 ]  [: Line: 0]  [Function: ] 
+Message: Ignored NaN, Inf, or -Inf value.
+[Warning] [2020-01-16 19:03:48:844 ]  [: Line: 0]  [Function: ] 
+Message: Ignored NaN, Inf, or -Inf value.
+[Warning] [2020-01-16 19:03:48:848 ]  [: Line: 0]  [Function: ] 
+Message: Ignored NaN, Inf, or -Inf value.
+[Warning] [2020-01-16 19:03:48:848 ]  [: Line: 0]  [Function: ] 
+Message: Ignored NaN, Inf, or -Inf value.
+[Warning] [2020-01-16 19:03:48:853 ]  [: Line: 0]  [Function: ] 
+Message: Ignored NaN, Inf, or -Inf value.
+[Warning] [2020-01-16 19:03:48:853 ]  [: Line: 0]  [Function: ] 
+Message: Ignored NaN, Inf, or -Inf value.
+[Info] [2020-01-16 19:03:48:858 ]  [: Line: 0]  [Function: ] 
+Message: HR= 0   SV= nan   CO= nan   CI=  nan 
+
+[Info] [2020-01-16 19:03:53:178 ]  [: Line: 0]  [Function: ] 
+Message: stopMeasure 
+

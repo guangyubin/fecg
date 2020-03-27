@@ -1,0 +1,6 @@
+[Info] [2020-01-16 19:06:57:434 ]  [..\..\biosignal\biosignalscope\mainwindow.cpp: Line: 185]  [Function: void __cdecl MainWindow::start(void)] 
+Message: OpenDeivce "serial_AEP"    "SEGGER" 
+
+[Info] [2020-01-16 19:06:58:664 ]  [..\..\biosignal\biosignalscope\mainwindow.cpp: Line: 205]  [Function: void __cdecl MainWindow::start(void)] 
+Message: Device Open Failure 
+

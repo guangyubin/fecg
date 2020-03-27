@@ -1,0 +1,207 @@
+[Info] [2020-03-27 13:56:58:097 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 13:56:58:101 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  deviceType= "serial_FECG" 
+[Info] [2020-03-27 13:56:58:101 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  name= "Silicon" 
+[Info] [2020-03-27 13:56:58:102 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nBlockSize= 10 
+[Info] [2020-03-27 13:56:58:102 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nSmpRate= 250 
+[Info] [2020-03-27 13:56:58:103 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  algType= "DEFAULT" 
+[Info] [2020-03-27 13:56:58:180 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  Device open succeed 
+[Info] [2020-03-27 13:57:06:465 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 13:57:11:775 ]  [Function: void __cdecl MainWindow::closeEvent(class QCloseEvent *)]  exitMeasure 
+
+[Info] [2020-03-27 13:58:47:297 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 13:58:47:299 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  deviceType= "serial_FECG" 
+[Info] [2020-03-27 13:58:47:300 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  name= "Silicon" 
+[Info] [2020-03-27 13:58:47:301 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nBlockSize= 10 
+[Info] [2020-03-27 13:58:47:301 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nSmpRate= 250 
+[Info] [2020-03-27 13:58:47:302 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  algType= "DEFAULT" 
+[Info] [2020-03-27 13:58:47:381 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  Device open succeed 
+[Warning] [2020-03-27 13:58:50:849 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 40    42 
+[Info] [2020-03-27 13:59:04:377 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 13:59:07:499 ]  [Function: void __cdecl MainWindow::closeEvent(class QCloseEvent *)]  exitMeasure 
+[Info] [2020-03-27 14:00:18:209 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 14:00:18:210 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  deviceType= "serial_FECG" 
+[Info] [2020-03-27 14:00:18:211 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  name= "Silicon" 
+[Info] [2020-03-27 14:00:18:212 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nBlockSize= 10 
+[Info] [2020-03-27 14:00:18:212 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nSmpRate= 250 
+[Info] [2020-03-27 14:00:18:213 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  algType= "DEFAULT" 
+[Info] [2020-03-27 14:00:18:288 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  Device open succeed 
+[Info] [2020-03-27 14:00:28:153 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 14:00:31:092 ]  [Function: void __cdecl MainWindow::closeEvent(class QCloseEvent *)]  exitMeasure 
+
+[Info] [2020-03-27 14:00:59:152 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 14:00:59:154 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  deviceType= "serial_FECG" 
+[Info] [2020-03-27 14:00:59:154 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  name= "Silicon" 
+[Info] [2020-03-27 14:00:59:155 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nBlockSize= 10 
+[Info] [2020-03-27 14:00:59:155 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nSmpRate= 250 
+[Info] [2020-03-27 14:00:59:156 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  algType= "DEFAULT" 
+[Info] [2020-03-27 14:00:59:231 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  Device open succeed 
+[Info] [2020-03-27 14:02:31:329 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 14:02:34:313 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 14:02:42:657 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 14:02:45:921 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 14:03:13:953 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 14:03:18:260 ]  [Function: void __cdecl MainWindow::closeEvent(class QCloseEvent *)]  exitMeasure 
+
+[Info] [2020-03-27 14:03:36:241 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 14:03:36:242 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  deviceType= "serial_FECG" 
+[Info] [2020-03-27 14:03:36:243 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  name= "Silicon" 
+[Info] [2020-03-27 14:03:36:244 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nBlockSize= 10 
+[Info] [2020-03-27 14:03:36:244 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nSmpRate= 250 
+[Info] [2020-03-27 14:03:36:245 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  algType= "DEFAULT" 
+[Info] [2020-03-27 14:03:36:320 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  Device open succeed 
+[Warning] [2020-03-27 14:04:22:506 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 1108    1112 
+[Warning] [2020-03-27 14:06:07:330 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 3732    3734 
+[Warning] [2020-03-27 14:15:29:057 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 17775    17777 
+[Warning] [2020-03-27 14:15:38:503 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 18011    18013 
+[Info] [2020-03-27 14:23:08:199 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 14:23:11:254 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 14:23:16:271 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 14:23:19:127 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Warning] [2020-03-27 14:23:48:918 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 704    709 
+[Warning] [2020-03-27 14:23:52:186 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 788    790 
+[Warning] [2020-03-27 14:24:12:166 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 1288    1290 
+[Warning] [2020-03-27 14:25:14:047 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 2833    2837 
+[Warning] [2020-03-27 14:26:45:162 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 5112    5116 
+[Warning] [2020-03-27 14:27:38:690 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 6449    6453 
+[Info] [2020-03-27 14:27:48:758 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 14:27:52:393 ]  [Function: void __cdecl MainWindow::closeEvent(class QCloseEvent *)]  exitMeasure 
+
+[Info] [2020-03-27 14:36:33:629 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 14:36:33:634 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  deviceType= "serial_FECG" 
+[Info] [2020-03-27 14:36:33:635 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  name= "Silicon" 
+[Info] [2020-03-27 14:36:33:635 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nBlockSize= 10 
+[Info] [2020-03-27 14:36:33:636 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nSmpRate= 250 
+[Info] [2020-03-27 14:36:33:637 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  algType= "DEFAULT" 
+[Info] [2020-03-27 14:36:33:742 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  Device open succeed 
+[Info] [2020-03-27 14:36:44:470 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 14:36:47:659 ]  [Function: void __cdecl MainWindow::closeEvent(class QCloseEvent *)]  exitMeasure 
+
+[Info] [2020-03-27 15:10:49:938 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 15:10:49:939 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  deviceType= "serial_FECG" 
+[Info] [2020-03-27 15:10:49:940 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  name= "Silicon" 
+[Info] [2020-03-27 15:10:49:940 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nBlockSize= 10 
+[Info] [2020-03-27 15:10:49:941 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nSmpRate= 250 
+[Info] [2020-03-27 15:10:49:942 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  algType= "DEFAULT" 
+[Info] [2020-03-27 15:10:50:018 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  Device open succeed 
+[Warning] [2020-03-27 15:11:31:103 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 988    990 
+[Warning] [2020-03-27 15:12:20:161 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 2214    2216 
+[Warning] [2020-03-27 15:12:36:720 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 2629    2631 
+[Warning] [2020-03-27 15:13:37:931 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 4158    4160 
+[Warning] [2020-03-27 15:14:06:634 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 4877    4879 
+[Warning] [2020-03-27 15:14:14:360 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 5070    5072 
+[Warning] [2020-03-27 15:14:33:167 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 5540    5542 
+[Warning] [2020-03-27 15:14:36:036 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 5609    5611 
+[Warning] [2020-03-27 15:14:41:338 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 5743    5745 
+[Warning] [2020-03-27 15:14:48:901 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 5932    5934 
+[Warning] [2020-03-27 15:15:04:657 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 6323    6325 
+[Warning] [2020-03-27 15:15:04:737 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 6328    6330 
+[Warning] [2020-03-27 15:15:22:227 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 6764    6766 
+[Warning] [2020-03-27 15:15:23:007 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 6785    6787 
+[Warning] [2020-03-27 15:15:23:787 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 6805    6807 
+[Warning] [2020-03-27 15:15:24:807 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 6830    6832 
+[Warning] [2020-03-27 15:15:38:084 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 7163    7165 
+[Warning] [2020-03-27 15:15:39:894 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 7208    7210 
+[Warning] [2020-03-27 15:15:44:024 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 7311    7313 
+[Warning] [2020-03-27 15:15:49:434 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 7444    7447 
+[Warning] [2020-03-27 15:16:00:985 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 7735    7737 
+[Warning] [2020-03-27 15:16:04:405 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 7820    7822 
+[Warning] [2020-03-27 15:16:06:433 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 7871    7873 
+[Warning] [2020-03-27 15:16:51:260 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 8992    8994 
+[Warning] [2020-03-27 15:17:18:208 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 9666    9668 
+[Warning] [2020-03-27 15:17:30:446 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 9972    9974 
+[Warning] [2020-03-27 15:17:44:555 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 10323    10325 
+[Warning] [2020-03-27 15:18:03:129 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 10788    10790 
+[Warning] [2020-03-27 15:18:14:748 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 11079    11081 
+[Warning] [2020-03-27 15:18:15:759 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 11103    11105 
+[Warning] [2020-03-27 15:18:30:938 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 11482    11484 
+[Warning] [2020-03-27 15:18:32:377 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 11519    11521 
+[Warning] [2020-03-27 15:18:45:994 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 11858    11861 
+[Warning] [2020-03-27 15:18:49:073 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 11937    11939 
+[Warning] [2020-03-27 15:18:53:044 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 12035    12038 
+[Warning] [2020-03-27 15:19:00:572 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 12223    12226 
+[Warning] [2020-03-27 15:19:14:608 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 12574    12577 
+[Warning] [2020-03-27 15:19:16:228 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 12615    12617 
+[Warning] [2020-03-27 15:19:18:897 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 12683    12685 
+[Warning] [2020-03-27 15:19:26:426 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 12869    12871 
+[Warning] [2020-03-27 15:19:38:653 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 13177    13179 
+[Warning] [2020-03-27 15:20:08:117 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 13914    13916 
+[Warning] [2020-03-27 15:20:16:670 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 14127    14129 
+[Warning] [2020-03-27 15:20:50:253 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 14965    14969 
+[Warning] [2020-03-27 15:20:51:886 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 15007    15009 
+[Warning] [2020-03-27 15:21:43:541 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 16298    16300 
+[Warning] [2020-03-27 15:22:40:968 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 17732    17734 
+[Warning] [2020-03-27 15:22:41:158 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 17738    17740 
+[Warning] [2020-03-27 15:22:43:858 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 17806    17808 
+[Warning] [2020-03-27 15:22:49:335 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 17941    17943 
+[Warning] [2020-03-27 15:22:49:385 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 17943    17946 
+[Warning] [2020-03-27 15:22:56:119 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 18113    18116 
+[Warning] [2020-03-27 15:23:04:426 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 18320    18322 
+[Warning] [2020-03-27 15:23:12:229 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 18515    18517 
+[Warning] [2020-03-27 15:23:22:891 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 18778    18781 
+[Warning] [2020-03-27 15:23:22:931 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 18784    18786 
+[Warning] [2020-03-27 15:23:27:893 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 18907    18909 
+[Warning] [2020-03-27 15:23:28:825 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 18926    18928 
+[Warning] [2020-03-27 15:23:28:825 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 18928    18931 
+[Warning] [2020-03-27 15:23:28:845 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 18931    18934 
+[Info] [2020-03-27 15:27:00:793 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 15:27:03:872 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 15:27:09:850 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 15:27:11:860 ]  [Function: void __cdecl MainWindow::closeEvent(class QCloseEvent *)]  exitMeasure 
+
+[Info] [2020-03-27 15:27:47:125 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 15:27:47:125 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  deviceType= "serial_FECG" 
+[Info] [2020-03-27 15:27:47:125 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  name= "Silicon" 
+[Info] [2020-03-27 15:27:47:125 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nBlockSize= 10 
+[Info] [2020-03-27 15:27:47:125 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nSmpRate= 250 
+[Info] [2020-03-27 15:27:47:125 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  algType= "DEFAULT" 
+[Info] [2020-03-27 15:27:47:205 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  Device open succeed 
+[Warning] [2020-03-27 15:28:06:776 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 446    448 
+[Warning] [2020-03-27 15:28:06:926 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 451    453 
+[Warning] [2020-03-27 15:28:08:815 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 499    501 
+[Warning] [2020-03-27 15:28:09:785 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 523    526 
+[Warning] [2020-03-27 15:28:10:565 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 542    544 
+[Warning] [2020-03-27 15:28:10:825 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 544    546 
+[Warning] [2020-03-27 15:28:10:945 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 549    554 
+[Warning] [2020-03-27 15:28:11:365 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 559    561 
+[Warning] [2020-03-27 15:28:11:375 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 561    567 
+[Warning] [2020-03-27 15:28:12:545 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 585    587 
+[Warning] [2020-03-27 15:28:12:576 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 587    590 
+[Warning] [2020-03-27 15:28:12:625 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 590    594 
+[Warning] [2020-03-27 15:28:12:635 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 595    598 
+[Warning] [2020-03-27 15:28:13:225 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 608    610 
+[Warning] [2020-03-27 15:28:13:235 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 610    613 
+[Warning] [2020-03-27 15:28:14:484 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 636    641 
+[Warning] [2020-03-27 15:28:14:723 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 644    646 
+[Warning] [2020-03-27 15:28:14:753 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 648    651 
+[Warning] [2020-03-27 15:28:15:674 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 669    671 
+[Warning] [2020-03-27 15:28:15:774 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 674    676 
+[Warning] [2020-03-27 15:28:36:115 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 1183    1185 
+[Warning] [2020-03-27 15:29:08:792 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 1998    2001 
+[Warning] [2020-03-27 15:29:24:319 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 2382    2387 
+[Warning] [2020-03-27 15:29:24:349 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 2389    2391 
+[Warning] [2020-03-27 15:29:30:706 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 2548    2550 
+[Warning] [2020-03-27 15:29:31:226 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 2558    2560 
+[Warning] [2020-03-27 15:29:31:306 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 2563    2565 
+[Warning] [2020-03-27 15:29:32:057 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 2581    2583 
+[Warning] [2020-03-27 15:29:38:377 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 2740    2742 
+[Warning] [2020-03-27 15:29:43:906 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 2876    2879 
+[Warning] [2020-03-27 15:30:02:153 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 3333    3335 
+[Warning] [2020-03-27 15:30:04:739 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 3399    3401 
+[Warning] [2020-03-27 15:30:38:616 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 4245    4247 
+[Warning] [2020-03-27 15:31:01:109 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 4799    4801 
+[Warning] [2020-03-27 15:31:01:109 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 4801    4804 
+[Warning] [2020-03-27 15:31:01:159 ]  [Function: void __cdecl MainWindow::OnRecMagicMsg(UART_MSG *)]  MissPacket 4806    4811 
+[Info] [2020-03-27 15:31:10:329 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 15:31:15:619 ]  [Function: void __cdecl MainWindow::closeEvent(class QCloseEvent *)]  exitMeasure 
+
+[Info] [2020-03-27 15:38:27:810 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 15:38:27:810 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  deviceType= "serial_FECG" 
+[Info] [2020-03-27 15:38:27:810 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  name= "Silicon" 
+[Info] [2020-03-27 15:38:27:810 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nBlockSize= 10 
+[Info] [2020-03-27 15:38:27:810 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  nSmpRate= 250 
+[Info] [2020-03-27 15:38:27:810 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  algType= "DEFAULT" 
+[Info] [2020-03-27 15:38:27:900 ]  [Function: bool __cdecl MainWindow::openDevice(void)]  Device open succeed 
+[Info] [2020-03-27 15:38:39:674 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 15:38:41:546 ]  [Function: void __cdecl MainWindow::start(void)]  start 
+[Info] [2020-03-27 15:38:53:112 ]  [Function: void __cdecl MainWindow::stop(void)]  stop 
+[Info] [2020-03-27 15:38:55:991 ]  [Function: void __cdecl MainWindow::closeEvent(class QCloseEvent *)]  exitMeasure 
